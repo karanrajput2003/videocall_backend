@@ -1,6 +1,6 @@
 const { Server } = require("socket.io");
 
-const io = new Server(8000, {
+const io = new Server(https://videocall-6gl3.vercel.app/, {
   cors: true,
 });
 
